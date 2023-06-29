@@ -12,8 +12,8 @@ class TestDaySummaryApi:
             "closing": 153458.29999999,
             "lowest": 151539,
             "highest": 153975,
-            "volume": 12583384.54790148,
-            "quantity": 82.27265844,
+            "volume": "12583384.54790148",
+            "quantity": "82.27265844",
             "amount": 4824,
             "avg_price": 152947.34346135,
         }
